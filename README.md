@@ -9,6 +9,7 @@
 
 ```
 
+// SW SPI
 U8G2_ST7565_ERC12864_1_4W_HW_SPI u8g2(
   U8G2_R0,           // Rotation
   PIN_CS,            // Chip Select
